@@ -1,0 +1,131 @@
+.body{
+	padding: 50px 30px 1500px 30px;
+}
+.container {
+  width: 100%;
+  padding-top: 40px;
+}
+
+.skills {
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+
+.HTML{
+	width: 90%;
+		text-align: right;
+	background-color: #3399FF;
+}
+
+.django{width: 90%; 
+	background-color: #3399FF;
+	height: 40px;
+	text-align: right;
+}
+
+.flask{width:75%; background-color: #3399FF;text-align: right;}
+
+.CSS{
+	width:90%;
+	background-color: #3399ff;
+		text-align: right;
+}
+
+
+.sql{
+	width:80%;
+	background-color: #3399ff;
+		text-align: right;
+}
+
+
+.machine_learning{
+	width:70%;
+	background-color: #3399ff;
+		text-align: right;
+}
+
+
+.photoshop{
+	width:60%;
+	background-color: #3399ff;
+		text-align: right;
+}
+
+
+.illustrator{
+	width:30%;
+	background-color: #3399ff;
+		text-align: right;
+}
+
+.text3{
+	position: relative;
+	left: 10px;
+	width: 13%;
+	height: 3%;}
+.Skill_main{
+	position:relative;
+	top: 1100px;
+	height:900px;
+	width: 600px;
+	left: 347px;
+}
+.text_flask{
+	position: relative;
+	left: 10px;
+	width: 10%;
+	height: 3%;	
+}
+
+.text_html{
+	position: relative;
+	left: 10px;
+	width: 11%;
+	height: 3%;
+}
+
+
+.text_css{
+		position: relative;
+	left: 10px;
+	width: 8%;
+	height: 3%;
+}
+
+.text_sql{
+		position: relative;
+	left: 10px;
+	width: 9%;
+	height: 3%;
+}
+
+.text_machine_learning{
+		position: relative;
+	left: 10px;
+	width: 32%;
+	height: 3%;
+}
+
+.text_illus{
+	position: relative;
+	left: 10px;
+	width: 20%;
+	height: 3%;
+}
+
+.text_photo{
+	position: relative;
+	left: 10px;
+	width: 20%;
+	height: 3%;
+}
+.Home{
+	position: absolute;
+	left: 550px;
+	top: 150px;
+	width: 600px;
+	height: 400px;
+	background-color: rgba(218,238,101,0.5);
+}
